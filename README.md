@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-cuerpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bajo tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-cuerpo/) |
+| **Get License** | [Secure Licensing Rights for Bajo tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-cuerpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú tienes la mente volando
+> Llevo mil horas de ti imaginando
+> Quiero tenerte cerquita, rozando tu piel
+> La nota subiendo y tú sabe' a miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
