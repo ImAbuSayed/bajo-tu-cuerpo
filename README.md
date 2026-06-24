@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-cuerpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bajo tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-cuerpo/) |
+| **Get License** | [Commercial Licensing for Bajo tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-cuerpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a7a455e9173caf5528be556eecc1cba8d3bf13f748f296c2430242358d5efec9` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

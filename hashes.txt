@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu cuerpo
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu cuerpo** (bajo-tu-cuerpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:55:49.443594 | `v1` | `a7a455e9173caf5528be556eecc1cba8d3bf13f748f296c2430242358d5efec9` | `0e99b52e1bbe1a1c58dcd1c0500928b21a8c2bed604f82e546f67117f4dea5d2` | `2026-06-24_bajo-tu-cuerpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
